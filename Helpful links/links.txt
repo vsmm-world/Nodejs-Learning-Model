@@ -1,2 +1,3 @@
 https://www.vanillajavascriptprojects.com/  -- for vanilla javascript projects ideas
 https://github.com/john-smilga/javascript-basic-projects  -- source code of projects
+
