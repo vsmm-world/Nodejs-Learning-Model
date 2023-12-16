@@ -1,4 +1,4 @@
-// Dedicated for Loops in Node js
+// Dedicated for Array Methos in Node js
 
 
 // Creating a sample array
