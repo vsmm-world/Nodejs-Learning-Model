@@ -7,6 +7,10 @@
 
 
 
+## Contact
 
+How to get in touch for support or queries.
+
+Instargam - https://www.instagram.com/ravindra_valand/
 
 auther- Ravindra Valand
