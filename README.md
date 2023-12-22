@@ -5,7 +5,8 @@
 1. Use this code as your notes or Learning Material 
 
 
-
+## Updates 
+- Also you can suggest me some updates for this repository
 
 ## Contact
 
