@@ -1,5 +1,4 @@
-// Dedicated for Array Methos in Node js
-
+// Dedicated for Array Methods in Node.js
 
 // Creating a sample array
 let myArray = [1, 2, 3, 4, 5];
@@ -74,3 +73,23 @@ console.log('Sliced array:', slicedArray);
 // Filling elements in the array
 const filledArray = new Array(5).fill(0);
 console.log('Filled array:', filledArray);
+
+// Finding the maximum value in the array
+const maxNumber = Math.max(...myArray);
+console.log('Maximum number:', maxNumber);
+
+// Finding the minimum value in the array
+const minNumber = Math.min(...myArray);
+console.log('Minimum number:', minNumber);
+
+// Checking if all elements in the array satisfy a condition
+const allElementsGreaterThanZero = myArray.every((item) => item > 0);
+console.log('All elements greater than zero:', allElementsGreaterThanZero);
+
+// Checking if at least one element in the array satisfies a condition
+const atLeastOneElementGreaterThanZero = myArray.some((item) => item > 0);
+console.log('At least one element greater than zero:', atLeastOneElementGreaterThanZero);
+
+// Replacing elements in the array
+const replacedArray = myArray.map((item) => (item === 3 ? 'three' : item));
+console.log('Replaced array:', replacedArray);
