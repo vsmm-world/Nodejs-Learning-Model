@@ -1,15 +1,14 @@
-## Nodejs Learning Model 
+## Node.js Learning Model
 
-*This Repository is Specially Created for taking raference while doing projects in node js *
+*This repository is specially created for referencing while working on Node.js projects.*
 
-1. Use this code as your notes or Learning Material 
+1. Use this code as your notes or learning material.
 
-
-## Updates 
-- Also you can suggest me some updates for this repository
+## Updates
+- You can also suggest updates for this repository.
+- Feel free to contribute by submitting pull requests.
 
 ## Contact
-
-Instargam - https://www.instagram.com/ravindra_valand/
-
-auther- Ravindra Valand
+- Instagram: [Ravindra Valand](https://www.instagram.com/ravindra_valand/)
+- Author: Ravindra Valand
+- Email: [ravindra@example.com](mailto:ravindra@example.com)
