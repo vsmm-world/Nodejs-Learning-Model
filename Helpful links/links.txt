@@ -1,3 +1,8 @@
 https://www.vanillajavascriptprojects.com/  -- for vanilla javascript projects ideas
 https://github.com/john-smilga/javascript-basic-projects  -- source code of projects
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide - Mozilla Developer Network's JavaScript Guide, a comprehensive resource for learning JavaScript.
+https://javascript.info/ - JavaScript.info, a website with detailed explanations and interactive examples for learning JavaScript.
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ - FreeCodeCamp's JavaScript Algorithms and Data Structures course, which covers essential JavaScript concepts and problem-solving skills.
+https://eloquentjavascript.net/ - "Eloquent JavaScript" by Marijn Haverbeke, a book that provides a deep dive into JavaScript programming.
+https://www.udemy.com/topic/javascript/ - Udemy's JavaScript courses, which offer a wide range of
